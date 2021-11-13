@@ -20,7 +20,7 @@ It's free!
 
 - Login screen
 
-![](assets/Login.png)
+![](assets/login.png)
 
 - Dashboard screen
 
