@@ -1,46 +1,72 @@
-# Getting Started with Create React App
+# Gofinances Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About this Project
 
-## Available Scripts
+_"The objective of this project is to exercise some React concepts as part of the [Ignite program](https://rocketseat.com.br/ignite)"._
 
-In the project directory, you can run:
+## Why?
 
-### `yarn start`
+This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Email-me: harrisonhenrisn@gmail.com
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Connect with me at [LinkedIn](https://linkedin.com/in/harrison-henri-dos-santos-nascimento).
 
-### `yarn test`
+Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+It's free!
 
-### `yarn build`
+## Functionalities
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Login screen
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![](assets/Login.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Dashboard screen
 
-### `yarn eject`
+![](assets/dashboard.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Clone the repo using
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+$ git clone https://github.com/HarrisonHenri/gofinances-web.git
+```
 
-## Learn More
+```
+$ cd gofinances-web
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install all the required dependencies
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+$ yarn
+```
+
+Runs the [api](https://github.com/HarrisonHenri/finapi)
+
+Then execute
+
+```
+$ yarn start
+```
+
+## Built With
+
+- [React](https://github.com/facebook/react) - Build the web app using JavaScript and React
+- [Axios](https://github.com/axios/axios) - HTTP Client
+- [Styled-Components](https://www.styled-components.com/) - Styles
+- [Prettier](https://prettier.io/) - Code Formatter
+- [ESlint](https://eslint.org/) - Linter
+
+## Contributing
+
+You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
+
+Email-me: harrisonhenrisn@gmail.com
+
+Connect with me at [LinkedIn](https://linkedin.com/in/harrison-henri-dos-santos-nascimento-a6ba33112).
+
+Thank you!

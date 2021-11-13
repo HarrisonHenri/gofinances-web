@@ -21,7 +21,7 @@ export function Summary({ deposits, withdraws, total }: SummaryDTO) {
           <p>Entradas</p>
           <img src={OutcomeImg} alt="Saídas" />
         </header>
-        <strong>-{formatAmount(withdraws)}</strong>
+        <strong>{formatAmount(withdraws)}</strong>
       </div>
       <div className="highlight">
         <header>
