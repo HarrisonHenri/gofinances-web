@@ -60,6 +60,7 @@ $ yarn start
 - [Styled-Components](https://www.styled-components.com/) - Styles
 - [Prettier](https://prettier.io/) - Code Formatter
 - [ESlint](https://eslint.org/) - Linter
+- [Firebase](https://github.com/firebase/firebase-js-sdk)
 
 ## Contributing
 
